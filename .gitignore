@@ -1,0 +1,35 @@
+# moduly a komponenty
+
+
+bower_components
+node_modules
+npm-debug.log
+
+
+# sublime
+
+
+hn.sublime-project
+hn.sublime-workspace
+
+
+# won & mac
+
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+Icon
+.idea
